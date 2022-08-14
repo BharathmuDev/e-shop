@@ -5,6 +5,7 @@ import { TiShoppingCart } from 'react-icons/ti';
 
 const Container = styled.div`
   height: 60px;
+  background-color: #F3F3F3;
 `;
 const Wrapper = styled.div`
   padding: 10px 20px;
