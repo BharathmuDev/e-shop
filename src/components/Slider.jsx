@@ -116,7 +116,7 @@ const Slider = () => {
         </Slide>
         ))}
       </Wrapper>
-      <Arrow direction="right" direction="right" onClick={() => handleClick("right")}>
+      <Arrow direction="right" onClick={() => handleClick("right")}>
         <RiArrowRightSFill />
       </Arrow>
     </Container>
