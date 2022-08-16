@@ -1,6 +1,6 @@
 import React from "react";
-import { BiSend } from "react-icons/bi";
 import styled from "styled-components";
+import { BiSend } from "react-icons/bi";
 
 const Container = styled.div`
   height: 60vh;
